@@ -4,7 +4,7 @@
    font-family: 'poppins', sans-serif;
 }
 body{
-   background-color: #495250;
+   background-color: #265dd4;
    display: grid;
    height: 100vh;
    place-items: center;
@@ -43,7 +43,7 @@ body{
    cursor: pointer;
    font-size: 18px;
    transition: 0.5s;
-   background-color: #495250;
+   background-color: #265dd4;
    border-radius: 6px;
    color: white;
 }
